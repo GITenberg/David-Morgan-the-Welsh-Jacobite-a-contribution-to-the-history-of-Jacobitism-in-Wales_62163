@@ -1,0 +1,29 @@
+_repo: David-Morgan-the-Welsh-Jacobite-a-contribution-to-the-history-of-Jacobitism-in-Wales_62163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Llewellin, W. (William), active 1811-1841
+    aliases:
+    - Llewellin, William
+    - Llewellyn, William
+    gutenberg_agent_id: '51802'
+    url: http://www.gutenberg.org/2009/agents/51802
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales -- History -- 1536-1700'
+- !lcsh 'Morgan, David Thomas, approximately 1695-1746'
+- !lcc 'DA'
+- !lcsh 'Jacobites'
+- GITenberg
+title: 'David Morgan, the Welsh Jacobite
+
+  a contribution to the history of Jacobitism in Wales'
+url: http://www.gutenberg.org/ebooks/62163
